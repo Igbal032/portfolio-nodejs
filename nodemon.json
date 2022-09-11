@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_DEFAULT_DATABASE": "portfolio1",
+    "MONGO_USER": "igbal32",
+    "MONGO_PASSWORD": "cq7qWPRUV9NoSaeo" 
+  }
+}
