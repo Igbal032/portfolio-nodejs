@@ -8,7 +8,7 @@ const cookieParser = require("cookie-parser");
 const fileupload = require('express-fileupload')
 const helmet = require("helmet");
 const compression = require("compression");
-const morgan = require('morgan')//for logging all requrest/
+// const morgan = require('morgan')//for logging all requrest/
 
 const app = express();
 app.use(helmet());
